@@ -1,4 +1,4 @@
 void main(){
 
-printf("°è»ê±â");
+printf("calc2");
 }
